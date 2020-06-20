@@ -1,6 +1,6 @@
 # Python Programs
 ### These are Python scripts that I wrote when I was learning Python. 
-It consists of various basics topics in Python like:
+It has various basics topics like:
 - Strings
 - Conditional Statements
 - Loops
